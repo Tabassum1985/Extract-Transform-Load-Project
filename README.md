@@ -1,5 +1,5 @@
 # Extract-Transform-Load-Project
-In this project collaborators demonstrated how to extract, transform and load data to a database using Jupyter Notebook and SQL.
+Through this project collaborators demonstrated how to extract, transform using Jupyter Notebook and load data to a database using SQL.
 
 # Introduction
                                                                         
